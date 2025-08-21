@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\conversione\bin\Debug\net9.0\conversione.exe
+C:\Users\arian\Desktop\corso c#\csharp\conversione\bin\Debug\net9.0\conversione.deps.json
+C:\Users\arian\Desktop\corso c#\csharp\conversione\bin\Debug\net9.0\conversione.runtimeconfig.json
+C:\Users\arian\Desktop\corso c#\csharp\conversione\bin\Debug\net9.0\conversione.dll
+C:\Users\arian\Desktop\corso c#\csharp\conversione\bin\Debug\net9.0\conversione.pdb
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.dll
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\refint\conversione.dll
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.pdb
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\conversione.genruntimeconfig.cache
+C:\Users\arian\Desktop\corso c#\csharp\conversione\obj\Debug\net9.0\ref\conversione.dll
