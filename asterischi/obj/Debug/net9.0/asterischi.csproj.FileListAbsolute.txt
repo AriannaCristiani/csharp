@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\bin\Debug\net9.0\asterischi.exe
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\bin\Debug\net9.0\asterischi.deps.json
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\bin\Debug\net9.0\asterischi.runtimeconfig.json
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\bin\Debug\net9.0\asterischi.dll
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\bin\Debug\net9.0\asterischi.pdb
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.dll
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\refint\asterischi.dll
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.pdb
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\asterischi.genruntimeconfig.cache
+C:\Users\arian\Desktop\corso c#\csharp\asterischi\obj\Debug\net9.0\ref\asterischi.dll
