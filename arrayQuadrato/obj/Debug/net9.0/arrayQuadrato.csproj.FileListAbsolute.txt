@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\bin\Debug\net9.0\arrayQuadrato.exe
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\bin\Debug\net9.0\arrayQuadrato.deps.json
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\bin\Debug\net9.0\arrayQuadrato.runtimeconfig.json
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\bin\Debug\net9.0\arrayQuadrato.dll
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\bin\Debug\net9.0\arrayQuadrato.pdb
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.dll
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\refint\arrayQuadrato.dll
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.pdb
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\arrayQuadrato.genruntimeconfig.cache
+C:\Users\arian\Desktop\corso c#\csharp\arrayQuadrato\obj\Debug\net9.0\ref\arrayQuadrato.dll
