@@ -1,0 +1,20 @@
+C:\Users\arian\Desktop\corso c#\csharp\type inference\obj\Debug\net9.0\type inference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\type inference\obj\Debug\net9.0\type inference.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\type inference\obj\Debug\net9.0\type inference.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\type inference\obj\Debug\net9.0\type inference.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\type inference\obj\Debug\net9.0\type inference.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\bin\Debug\net9.0\type inference.exe
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\bin\Debug\net9.0\type inference.deps.json
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\bin\Debug\net9.0\type inference.runtimeconfig.json
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\bin\Debug\net9.0\type inference.dll
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\bin\Debug\net9.0\type inference.pdb
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.dll
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\refint\type inference.dll
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.pdb
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\type inference.genruntimeconfig.cache
+C:\Users\arian\Desktop\corso c#\csharp\typeInference\obj\Debug\net9.0\ref\type inference.dll

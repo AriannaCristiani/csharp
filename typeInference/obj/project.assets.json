@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arian\\Desktop\\corso c#\\csharp\\inizio\\inizio.csproj",
-      "projectName": "inizio",
-      "projectPath": "C:\\Users\\arian\\Desktop\\corso c#\\csharp\\inizio\\inizio.csproj",
+      "projectUniqueName": "C:\\Users\\arian\\Desktop\\corso c#\\csharp\\typeInference\\type inference.csproj",
+      "projectName": "type inference",
+      "projectPath": "C:\\Users\\arian\\Desktop\\corso c#\\csharp\\typeInference\\type inference.csproj",
       "packagesPath": "C:\\Users\\arian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arian\\Desktop\\corso c#\\csharp\\inizio\\obj\\",
+      "outputPath": "C:\\Users\\arian\\Desktop\\corso c#\\csharp\\typeInference\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arian\\AppData\\Roaming\\NuGet\\NuGet.Config"
