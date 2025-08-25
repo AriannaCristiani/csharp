@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\bin\Debug\net9.0\esempioFattoriale.exe
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\bin\Debug\net9.0\esempioFattoriale.deps.json
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\bin\Debug\net9.0\esempioFattoriale.runtimeconfig.json
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\bin\Debug\net9.0\esempioFattoriale.dll
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\bin\Debug\net9.0\esempioFattoriale.pdb
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.dll
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\refint\esempioFattoriale.dll
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.pdb
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\esempioFattoriale.genruntimeconfig.cache
+C:\Users\arian\Desktop\corso c#\csharp\esempioFattoriale\obj\Debug\net9.0\ref\esempioFattoriale.dll
