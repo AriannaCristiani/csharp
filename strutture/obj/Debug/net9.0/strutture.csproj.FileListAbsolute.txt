@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\corso c#\csharp\strutture\bin\Debug\net9.0\strutture.exe
+C:\Users\arian\Desktop\corso c#\csharp\strutture\bin\Debug\net9.0\strutture.deps.json
+C:\Users\arian\Desktop\corso c#\csharp\strutture\bin\Debug\net9.0\strutture.runtimeconfig.json
+C:\Users\arian\Desktop\corso c#\csharp\strutture\bin\Debug\net9.0\strutture.dll
+C:\Users\arian\Desktop\corso c#\csharp\strutture\bin\Debug\net9.0\strutture.pdb
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.dll
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\refint\strutture.dll
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.pdb
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\strutture.genruntimeconfig.cache
+C:\Users\arian\Desktop\corso c#\csharp\strutture\obj\Debug\net9.0\ref\strutture.dll
