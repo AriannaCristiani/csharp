@@ -4,22 +4,15 @@ namespace biblioteca
 {
     public class Utente
     {
-        private string id;
-        private string nome;
-        private string cognome;
-        private int annoIscrizione;
+        public string Id { get; set; }
+        public string Nome { get; set; }
+        public string Cognome { get; set; }
+        public int AnnoIscrizione { get; set; }
 
-        public Utente(string id, string nome, string cognome, int annoIscrizione)
-        {
-            this.id = id;
-            this.nome = nome;
-            this.cognome = cognome;
-            this.annoIscrizione = annoIscrizione;
-        }
 
-        public string Denominazione()
+        public string Denominazione
         {
-            return this.nome + " " + this.cognome;
+            get { return Nome + " " + Cognome; }
         }
     }
 
@@ -47,12 +40,12 @@ namespace biblioteca
         {
             if (this.utente != null)
             {
-                Console.WriteLine("Il libro è già in prestito a " + this.utente.Denominazione());
+                Console.WriteLine("Il libro è già in prestito a " + this.utente.Denominazione);
             }
             else
             {
                 this.utente = utente;
-                Console.WriteLine("Il libro " + this.Descrizione() + " è stato prestato a " + utente.Denominazione());
+                Console.WriteLine("Il libro " + this.Descrizione() + " è stato prestato a " + utente.Denominazione);
             }
         }
 
@@ -60,7 +53,7 @@ namespace biblioteca
         {
             if (this.utente != null)
             {
-                Console.WriteLine("Il libro " + this.Descrizione() + " è stato restituito da " + this.utente.Denominazione());
+                Console.WriteLine("Il libro " + this.Descrizione() + " è stato restituito da " + this.utente.Denominazione);
                 this.utente = null;
             }
             else
@@ -74,11 +67,11 @@ namespace biblioteca
     {
         static void Main(string[] args)
         {
-            Utente utente1 = new Utente("U001", "Mario", "Rossi", 2020);
-            Console.WriteLine(utente1.Denominazione());
+            Utente utente1 = new Utente() { Id = "U001", Nome = "Mario", Cognome = "Rossi", AnnoIscrizione = 2020 };
+            Console.WriteLine(utente1.Denominazione);
 
-            Utente utente2 = new Utente("U002", "Luigi", "Verdi", 2021);
-            Console.WriteLine(utente2.Denominazione());
+            Utente utente2 = new Utente() { Id = "U002", Nome = "Luigi", Cognome = "Verdi", AnnoIscrizione = 2021 };
+            Console.WriteLine(utente2.Denominazione);
 
             Libro libro1 = new Libro("L001", "Il Signore degli Anelli", "J.R.R. Tolkien");
             Console.WriteLine(libro1.Descrizione());
