@@ -7,7 +7,7 @@ namespace biblioteca
         public string Nome { get; set; }
         public string Cognome { get; set; }
 
-        public string Denominazione
+        public virtual string Denominazione
         {
             get { return Nome + " " + Cognome; }
         }
@@ -17,6 +17,11 @@ namespace biblioteca
         public string Id { get; set; }
 
         public int AnnoIscrizione { get; set; }
+
+        public override string Denominazione
+        {
+            get { return Id + " " + Nome + " " + Cognome; }
+        }
 
     }
 
