@@ -2,18 +2,22 @@
 
 namespace biblioteca
 {
-    public class Utente
+    public class Persona
     {
-        public string Id { get; set; }
         public string Nome { get; set; }
         public string Cognome { get; set; }
-        public int AnnoIscrizione { get; set; }
-
 
         public string Denominazione
         {
             get { return Nome + " " + Cognome; }
         }
+    }
+    public class Utente : Persona
+    {
+        public string Id { get; set; }
+
+        public int AnnoIscrizione { get; set; }
+
     }
 
     public class Libro
