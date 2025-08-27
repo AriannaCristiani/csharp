@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\bin\Debug\net9.0\biblioteca2.exe
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\bin\Debug\net9.0\biblioteca2.deps.json
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\bin\Debug\net9.0\biblioteca2.runtimeconfig.json
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\bin\Debug\net9.0\biblioteca2.dll
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\bin\Debug\net9.0\biblioteca2.pdb
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.AssemblyInfo.cs
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.sourcelink.json
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.dll
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\refint\biblioteca2.dll
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.pdb
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\biblioteca2.genruntimeconfig.cache
+C:\Users\arian\Desktop\corso c#\csharp\biblioteca2\obj\Debug\net9.0\ref\biblioteca2.dll
